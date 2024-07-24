@@ -190,6 +190,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7988548}
   - component: {fileID: 7988549}
+  - component: {fileID: 7988550}
   m_Layer: 0
   m_Name: C# OOP
   m_TagString: Untagged
@@ -225,6 +226,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_oop.php
+--- !u!114 &7988550
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7988547}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75c0b19c54308c34fa9187e4170828f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &49738486
 GameObject:
   m_ObjectHideFlags: 0
@@ -235,6 +248,7 @@ GameObject:
   m_Component:
   - component: {fileID: 49738487}
   - component: {fileID: 49738488}
+  - component: {fileID: 49738489}
   m_Layer: 0
   m_Name: C# Strings
   m_TagString: Untagged
@@ -274,6 +288,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_strings.php
+--- !u!114 &49738489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 49738486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef45b293fa4f6324cb6dc42e5cf2641b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &129942017
 GameObject:
   m_ObjectHideFlags: 0
@@ -365,6 +391,7 @@ GameObject:
   m_Component:
   - component: {fileID: 136257298}
   - component: {fileID: 136257299}
+  - component: {fileID: 136257300}
   m_Layer: 0
   m_Name: C# Named Arguments
   m_TagString: Untagged
@@ -400,6 +427,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_method_parameters_named_args.php
+--- !u!114 &136257300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 136257297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f317dbcf3dd960e4493b1e465849cb6d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &203844586
 GameObject:
   m_ObjectHideFlags: 0
@@ -528,6 +567,7 @@ GameObject:
   m_Component:
   - component: {fileID: 222238824}
   - component: {fileID: 222238825}
+  - component: {fileID: 222238826}
   m_Layer: 0
   m_Name: Access String
   m_TagString: Untagged
@@ -563,6 +603,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_strings_chars.php
+--- !u!114 &222238826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222238823}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61cef4c8aaae3b6419c3e77436de8ca4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &263248999
 GameObject:
   m_ObjectHideFlags: 0
@@ -573,6 +625,7 @@ GameObject:
   m_Component:
   - component: {fileID: 263249000}
   - component: {fileID: 263249001}
+  - component: {fileID: 263249002}
   m_Layer: 0
   m_Name: C# Booleans
   m_TagString: Untagged
@@ -608,6 +661,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_booleans.php
+--- !u!114 &263249002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263248999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9615f70617d9eed4f9a95478037b3dc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &275011789
 GameObject:
   m_ObjectHideFlags: 0
@@ -618,6 +683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 275011790}
   - component: {fileID: 275011791}
+  - component: {fileID: 275011792}
   m_Layer: 0
   m_Name: C# Operators
   m_TagString: Untagged
@@ -656,6 +722,29 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_operators.php
+--- !u!114 &275011792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 275011789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e17fa8dd5d6daf745a55cace32ce797b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_a: 2
+  m_b: 10
+  m_addition: 12
+  m_soustraction: -8
+  m_multiplication: 20
+  m_division: 0
+  m_exponent: 1024
+  m_modulo: 2
+  m_divisionAsInt: 0
+  m_moduloAsInt: 2
+  m_onValidateCounter: 2
 --- !u!1 &301097608
 GameObject:
   m_ObjectHideFlags: 0
@@ -666,6 +755,7 @@ GameObject:
   m_Component:
   - component: {fileID: 301097609}
   - component: {fileID: 301097610}
+  - component: {fileID: 301097611}
   m_Layer: 0
   m_Name: C# Logical
   m_TagString: Untagged
@@ -701,6 +791,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_operators_logical.php
+--- !u!114 &301097611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 301097608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbdbf7e6af0f32043b37297b4cb682a8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &317975414
 GameObject:
   m_ObjectHideFlags: 0
@@ -711,6 +813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 317975415}
   - component: {fileID: 317975416}
+  - component: {fileID: 317975417}
   m_Layer: 0
   m_Name: C# Comparison
   m_TagString: Untagged
@@ -746,6 +849,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_operators_comparison.php
+--- !u!114 &317975417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317975414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a112cefa475bcdc40a685c08ad260bf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &337026676
 GameObject:
   m_ObjectHideFlags: 0
@@ -813,6 +928,7 @@ GameObject:
   m_Component:
   - component: {fileID: 354394926}
   - component: {fileID: 354394927}
+  - component: {fileID: 354394928}
   m_Layer: 0
   m_Name: C# Files
   m_TagString: Untagged
@@ -848,6 +964,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_files.php
+--- !u!114 &354394928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 354394925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bf3ff25f63c3e14da478e0656bdabdc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &401799564
 GameObject:
   m_ObjectHideFlags: 0
@@ -858,6 +986,7 @@ GameObject:
   m_Component:
   - component: {fileID: 401799565}
   - component: {fileID: 401799566}
+  - component: {fileID: 401799567}
   m_Layer: 0
   m_Name: C# Return Value
   m_TagString: Untagged
@@ -893,6 +1022,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_method_parameters_return.php
+--- !u!114 &401799567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 401799564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8fac54dff3ae024ca1b52cd892c5492, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &431947074
 GameObject:
   m_ObjectHideFlags: 0
@@ -903,6 +1044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 431947075}
   - component: {fileID: 431947076}
+  - component: {fileID: 431947077}
   m_Layer: 0
   m_Name: C# User Input
   m_TagString: Untagged
@@ -938,6 +1080,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_user_input.php
+--- !u!114 &431947077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 431947074}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dba2a617509b1942a8b308f65fc9a2e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &455500899
 GameObject:
   m_ObjectHideFlags: 0
@@ -948,6 +1102,7 @@ GameObject:
   m_Component:
   - component: {fileID: 455500900}
   - component: {fileID: 455500901}
+  - component: {fileID: 455500902}
   m_Layer: 0
   m_Name: C# Methods
   m_TagString: Untagged
@@ -983,6 +1138,73 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_methods.php
+--- !u!114 &455500902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 455500899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17bf5b2a448d53a45b93c2d465027f7c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &504168909
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 504168910}
+  - component: {fileID: 504168911}
+  m_Layer: 0
+  m_Name: Integer As bits
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &504168910
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 504168909}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1390457193}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &504168911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 504168909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7f1a73550abab14699b16b5399c2406, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_valueInt: 4294967295
+  m_valueAs32Bits: 11111111111111111111111111111111
+  m_valueAsUint: 4294967295
+  m_valueToAdds: 0100000002000000040000000800000010000000200000004000000080000000000100000002000000040000000800000010000000200000004000000080000000000100000002000000040000000800000010000000200000004000000080000000000100000002000000040000000800000010000000200000004000000080
+  m_equation: " + 2^31 + 2^30 + 2^29 + 2^28 + 2^27 + 2^26 + 2^25 + 2^24 + 2^23 +
+    2^22 + 2^21 + 2^20 + 2^19 + 2^18 + 2^17 + 2^16 + 2^15 + 2^14 + 2^13 + 2^12 +
+    2^11 + 2^10 + 2^9 + 2^8 + 2^7 + 2^6 + 2^5 + 2^4 + 2^3 + 2^2 + 2^1 + 2^0\n + 2147483648
+    + 1073741824 + 536870912 + 268435456 + 134217728 + 67108864 + 33554432 + 16777216
+    + 8388608 + 4194304 + 2097152 + 1048576 + 524288 + 262144 + 131072 + 65536 +
+    32768 + 16384 + 8192 + 4096 + 2048 + 1024 + 512 + 256 + 128 + 64 + 32 + 16 +
+    8 + 4 + 2 + 1"
 --- !u!1 &606788581
 GameObject:
   m_ObjectHideFlags: 0
@@ -993,6 +1215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 606788582}
   - component: {fileID: 606788583}
+  - component: {fileID: 606788584}
   m_Layer: 0
   m_Name: C# Multidimensional array
   m_TagString: Untagged
@@ -1028,6 +1251,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_arrays_multi.php
+--- !u!114 &606788584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606788581}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5c9aa00f84a8314691652ea6e737cd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &635379556
 GameObject:
   m_ObjectHideFlags: 0
@@ -1038,6 +1273,7 @@ GameObject:
   m_Component:
   - component: {fileID: 635379557}
   - component: {fileID: 635379558}
+  - component: {fileID: 635379559}
   m_Layer: 0
   m_Name: C# Enum
   m_TagString: Untagged
@@ -1073,6 +1309,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_enums.php
+--- !u!114 &635379559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 635379556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0f090c861a48db46ae8554098a9257a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &638570294
 GameObject:
   m_ObjectHideFlags: 0
@@ -1083,6 +1331,7 @@ GameObject:
   m_Component:
   - component: {fileID: 638570295}
   - component: {fileID: 638570296}
+  - component: {fileID: 638570297}
   m_Layer: 0
   m_Name: C# Math
   m_TagString: Untagged
@@ -1118,6 +1367,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_math.php
+--- !u!114 &638570297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638570294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3600016954c4470439b1e37d5f70b985, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &657351425
 GameObject:
   m_ObjectHideFlags: 0
@@ -1128,6 +1389,7 @@ GameObject:
   m_Component:
   - component: {fileID: 657351426}
   - component: {fileID: 657351427}
+  - component: {fileID: 657351428}
   m_Layer: 0
   m_Name: C# Constructors
   m_TagString: Untagged
@@ -1163,6 +1425,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_constructors.php
+--- !u!114 &657351428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 657351425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f5a7a47581087a489485cd43d5b41e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &686750741
 GameObject:
   m_ObjectHideFlags: 0
@@ -1292,6 +1566,7 @@ GameObject:
   m_Component:
   - component: {fileID: 745201090}
   - component: {fileID: 745201091}
+  - component: {fileID: 745201092}
   m_Layer: 0
   m_Name: C# Type Casting
   m_TagString: Untagged
@@ -1327,6 +1602,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_type_casting.php
+--- !u!114 &745201092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 745201089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adab9ea34e24c9e469f2555a91fd22d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &793701071
 GameObject:
   m_ObjectHideFlags: 0
@@ -1337,6 +1624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 793701072}
   - component: {fileID: 793701073}
+  - component: {fileID: 793701074}
   m_Layer: 0
   m_Name: C# Interface
   m_TagString: Untagged
@@ -1373,6 +1661,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_interface.php
+--- !u!114 &793701074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 793701071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b2b9258397dc474ab56b7dc19c972aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &876922025
 GameObject:
   m_ObjectHideFlags: 0
@@ -1383,6 +1683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 876922026}
   - component: {fileID: 876922027}
+  - component: {fileID: 876922028}
   m_Layer: 0
   m_Name: Interpolation
   m_TagString: Untagged
@@ -1418,6 +1719,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_strings_interpol.php
+--- !u!114 &876922028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 876922025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adc0985b09edefb41b94f54578619905, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &960267138
 GameObject:
   m_ObjectHideFlags: 0
@@ -1626,6 +1939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 971368717}
   - component: {fileID: 971368718}
+  - component: {fileID: 971368719}
   m_Layer: 0
   m_Name: C# Properties (Get and Set)
   m_TagString: Untagged
@@ -1661,6 +1975,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_properties.php
+--- !u!114 &971368719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 971368716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31ff408c1314bc14fac49cc21fd23f1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &990159813
 GameObject:
   m_ObjectHideFlags: 0
@@ -1715,6 +2041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1021076406}
   - component: {fileID: 1021076407}
+  - component: {fileID: 1021076408}
   m_Layer: 0
   m_Name: C# Polymorphism
   m_TagString: Untagged
@@ -1750,6 +2077,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_polymorphism.php
+--- !u!114 &1021076408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1021076405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e203d5b9f70fd4089b709054754b4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1101983348
 GameObject:
   m_ObjectHideFlags: 0
@@ -1760,6 +2099,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1101983349}
   - component: {fileID: 1101983350}
+  - component: {fileID: 1101983351}
   m_Layer: 0
   m_Name: C# If...Else
   m_TagString: Untagged
@@ -1795,6 +2135,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_conditions.php
+--- !u!114 &1101983351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1101983348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 382cb2a23eb5d4044b5d1fc3133a404e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1177674925
 GameObject:
   m_ObjectHideFlags: 0
@@ -1805,6 +2157,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1177674926}
   - component: {fileID: 1177674927}
+  - component: {fileID: 1177674928}
   m_Layer: 0
   m_Name: C# Assignment
   m_TagString: Untagged
@@ -1840,6 +2193,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_operators_assignment.php
+--- !u!114 &1177674928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1177674925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b45e2ee6571fb64ba3c1bb4d669712c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_addition: 0
+  m_soustraction: 0
+  m_multiplication: 0
+  m_division: 0
+  m_modulo: 0
+  m_or: 0
+  m_and: 0
 --- !u!1 &1179929968
 GameObject:
   m_ObjectHideFlags: 0
@@ -1919,6 +2291,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1192550471}
   - component: {fileID: 1192550472}
+  - component: {fileID: 1192550473}
   m_Layer: 0
   m_Name: C# Multiple Interface
   m_TagString: Untagged
@@ -1954,6 +2327,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_interface_multi.php
+--- !u!114 &1192550473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1192550470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0866a9b8bac76c0498d779dec3a2330e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1201613367
 GameObject:
   m_ObjectHideFlags: 0
@@ -2032,7 +2417,6 @@ Transform:
   - {fileID: 635379557}
   - {fileID: 354394926}
   - {fileID: 1311159344}
-  - {fileID: 1808546555}
   - {fileID: 1432954287}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2092,6 +2476,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1311159344}
   - component: {fileID: 1311159345}
+  - component: {fileID: 1311159346}
   m_Layer: 0
   m_Name: C# Exceptions
   m_TagString: Untagged
@@ -2127,6 +2512,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_exceptions.php
+--- !u!114 &1311159346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1311159343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7679187ac8fbfa3489eb2d7bfaa7a2c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1385216028
 GameObject:
   m_ObjectHideFlags: 0
@@ -2185,6 +2582,68 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_intro.php
+--- !u!1 &1390457192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1390457193}
+  - component: {fileID: 1390457194}
+  m_Layer: 0
+  m_Name: Bitwise Operation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1390457193
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390457192}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 504168910}
+  m_Father: {fileID: 1432954287}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1390457194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390457192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3214e9c5dde07243b21385cd842e5a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_operatorA: 8
+  m_aAs10: 00001000
+  m_operatorB: 50
+  m_bAs10: 00110010
+  m_or: 58
+  m_orAs10: 00111010
+  m_and: 0
+  m_andAs10: 00000000
+  m_operatorAShiftedLeftCount: 0
+  m_operatorAShiftedLeft: 8
+  m_operatorAShiftedLeftAs10: 00001000
+  m_operatorBShiftedRightCount: 4
+  m_operatorBShiftedRight: 3
+  m_operatorBShiftedRightAs10: 00000011
+  m_textToByteUsingShift: 11110000
+  m_byteUsingShift: 240
+  m_byteUsingShiftCheck: 11110000
 --- !u!1 &1415450750
 GameObject:
   m_ObjectHideFlags: 0
@@ -2195,6 +2654,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1415450751}
   - component: {fileID: 1415450752}
+  - component: {fileID: 1415450753}
   m_Layer: 0
   m_Name: C# Switch
   m_TagString: Untagged
@@ -2230,6 +2690,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_switch.php
+--- !u!114 &1415450753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1415450750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fe8a31cca31f6243889ee0d3741169a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1417871972
 GameObject:
   m_ObjectHideFlags: 0
@@ -2240,6 +2712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1417871973}
   - component: {fileID: 1417871974}
+  - component: {fileID: 1417871975}
   m_Layer: 0
   m_Name: C# Loop Through Array
   m_TagString: Untagged
@@ -2275,6 +2748,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_arrays_loop.php
+--- !u!114 &1417871975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1417871972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cecfbe848caf9e04dbca93cc6636e9d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1419491366
 GameObject:
   m_ObjectHideFlags: 0
@@ -2285,6 +2770,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1419491367}
   - component: {fileID: 1419491368}
+  - component: {fileID: 1419491369}
   m_Layer: 0
   m_Name: C# Method Overloading
   m_TagString: Untagged
@@ -2320,6 +2806,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_method_overloading.php
+--- !u!114 &1419491369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419491366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83657075e3817294da39f27cbd735314, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1420997829
 GameObject:
   m_ObjectHideFlags: 0
@@ -2330,6 +2828,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1420997830}
   - component: {fileID: 1420997831}
+  - component: {fileID: 1420997832}
   m_Layer: 0
   m_Name: C# Abstraction
   m_TagString: Untagged
@@ -2365,6 +2864,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_abstract.php
+--- !u!114 &1420997832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1420997829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 846cf755f0bc6ec4fb4b134e4b04ff67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1421531577
 GameObject:
   m_ObjectHideFlags: 0
@@ -2375,6 +2886,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1421531578}
   - component: {fileID: 1421531579}
+  - component: {fileID: 1421531580}
   m_Layer: 0
   m_Name: C# Arrays
   m_TagString: Untagged
@@ -2413,6 +2925,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_arrays.php
+--- !u!114 &1421531580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421531577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6315315264844744592590589f3dedbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1421721574
 GameObject:
   m_ObjectHideFlags: 0
@@ -2423,6 +2947,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1421721575}
   - component: {fileID: 1421721576}
+  - component: {fileID: 1421721577}
   m_Layer: 0
   m_Name: C# Sort Arrays
   m_TagString: Untagged
@@ -2458,6 +2983,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_arrays_sort.php
+--- !u!114 &1421721577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1421721574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f0b44084140f94f9ff228a0a7fd4fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1432954286
 GameObject:
   m_ObjectHideFlags: 0
@@ -2491,6 +3028,7 @@ Transform:
   - {fileID: 1221446207}
   - {fileID: 337026677}
   - {fileID: 1590046589}
+  - {fileID: 1390457193}
   m_Father: {fileID: 1201613369}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1454078979
@@ -2503,6 +3041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1454078980}
   - component: {fileID: 1454078981}
+  - component: {fileID: 1454078982}
   m_Layer: 0
   m_Name: C# While Loop
   m_TagString: Untagged
@@ -2538,6 +3077,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_for_loop.php
+--- !u!114 &1454078982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454078979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0abef560fd79d0048a17f0212e188c40, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1575551360
 GameObject:
   m_ObjectHideFlags: 0
@@ -2548,6 +3099,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1575551361}
   - component: {fileID: 1575551362}
+  - component: {fileID: 1575551363}
   m_Layer: 0
   m_Name: C# Break and Continue
   m_TagString: Untagged
@@ -2583,6 +3135,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_break.php
+--- !u!114 &1575551363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575551360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd078c16e07e9a14a8512ee590f079d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1590046588
 GameObject:
   m_ObjectHideFlags: 0
@@ -2624,6 +3188,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1629843318}
   - component: {fileID: 1629843319}
+  - component: {fileID: 1629843320}
   m_Layer: 0
   m_Name: C# Inheritance
   m_TagString: Untagged
@@ -2659,6 +3224,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_inheritance.php
+--- !u!114 &1629843320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1629843317}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61ee81a914e5e0c4dbb305cde3c63107, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1691743518
 GameObject:
   m_ObjectHideFlags: 0
@@ -2728,6 +3305,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1748818819}
   - component: {fileID: 1748818820}
+  - component: {fileID: 1748818821}
   m_Layer: 0
   m_Name: C# Multiple Object
   m_TagString: Untagged
@@ -2763,6 +3341,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_classes_multi.php
+--- !u!114 &1748818821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748818818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 323ab3b4124f8a34f9b545be2d699898, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1788230456
 GameObject:
   m_ObjectHideFlags: 0
@@ -2811,51 +3401,6 @@ MonoBehaviour:
   m_passwordHashed: 25e85e6b3931e99098f83d434654b8c5f0ebec4840efbfdfb835dd0d4b2517a3
   m_tryToGuessPassword: J'aime les frites
   m_passwordHashedToCompare: 25e85e6b3931e99098f83d434654b8c5f0ebec4840efbfdfb835dd0d4b2517a3
---- !u!1 &1808546554
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1808546555}
-  - component: {fileID: 1808546556}
-  m_Layer: 0
-  m_Name: C# Examples
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1808546555
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1808546554}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1201613369}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1808546556
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1808546554}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ffc2495734892f74cbee5ad9cd2a369f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_sourceUrl: https://www.w3schools.com/cs/cs_examples.php
 --- !u!1 &1832578646
 GameObject:
   m_ObjectHideFlags: 0
@@ -2866,6 +3411,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1832578647}
   - component: {fileID: 1832578648}
+  - component: {fileID: 1832578649}
   m_Layer: 0
   m_Name: C# Class Members
   m_TagString: Untagged
@@ -2901,6 +3447,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_class_members.php
+--- !u!114 &1832578649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1832578646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5a943d9765a893469a4f7f31fd4fa4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1860809917
 GameObject:
   m_ObjectHideFlags: 0
@@ -2911,6 +3469,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1860809918}
   - component: {fileID: 1860809919}
+  - component: {fileID: 1860809920}
   m_Layer: 0
   m_Name: C# Method Parameters
   m_TagString: Untagged
@@ -2949,6 +3508,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_method_parameters.php
+--- !u!114 &1860809920
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860809917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e0352d84b1bc0d4ab753030c96028c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1950662917
 GameObject:
   m_ObjectHideFlags: 0
@@ -3148,6 +3719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1964753276}
   - component: {fileID: 1964753277}
+  - component: {fileID: 1964753278}
   m_Layer: 0
   m_Name: C# Default Parameters
   m_TagString: Untagged
@@ -3183,6 +3755,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_method_parameters_default.php
+--- !u!114 &1964753278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1964753275}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a193ee35d732211479bfab4ab64facb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2014863463
 GameObject:
   m_ObjectHideFlags: 0
@@ -3193,6 +3777,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2014863464}
   - component: {fileID: 2014863465}
+  - component: {fileID: 2014863466}
   m_Layer: 0
   m_Name: Concatenation
   m_TagString: Untagged
@@ -3228,6 +3813,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_strings_concat.php
+--- !u!114 &2014863466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014863463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647baf5108ab9b548b8b646c3fbcd828, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2024830569
 GameObject:
   m_ObjectHideFlags: 0
@@ -3238,6 +3835,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2024830570}
   - component: {fileID: 2024830571}
+  - component: {fileID: 2024830572}
   m_Layer: 0
   m_Name: C# Access Modifiers
   m_TagString: Untagged
@@ -3273,6 +3871,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_access_modifiers.php
+--- !u!114 &2024830572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2024830569}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 589b97e79c33ae74ba440fbfcb2b6e7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2063718260
 GameObject:
   m_ObjectHideFlags: 0
@@ -3283,6 +3893,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2063718261}
   - component: {fileID: 2063718262}
+  - component: {fileID: 2063718263}
   m_Layer: 0
   m_Name: C# Classes and Objects
   m_TagString: Untagged
@@ -3319,6 +3930,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_classes.php
+--- !u!114 &2063718263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2063718260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d884d4f8183c8948b9a69427446fa5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2114329308
 GameObject:
   m_ObjectHideFlags: 0
@@ -3329,6 +3952,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2114329309}
   - component: {fileID: 2114329310}
+  - component: {fileID: 2114329311}
   m_Layer: 0
   m_Name: C# For Loop
   m_TagString: Untagged
@@ -3364,6 +3988,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_for_loop.php
+--- !u!114 &2114329311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2114329308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4264a3b8ca256c949a78142847f8c16d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2134380950
 GameObject:
   m_ObjectHideFlags: 0
@@ -3374,6 +4010,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2134380951}
   - component: {fileID: 2134380952}
+  - component: {fileID: 2134380953}
   m_Layer: 0
   m_Name: Special Characters
   m_TagString: Untagged
@@ -3409,6 +4046,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_sourceUrl: https://www.w3schools.com/cs/cs_strings_concat.php
+--- !u!114 &2134380953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2134380950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de2b3ecbd1e9ad442b26164131b898d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -2,7 +2,7 @@
 using System.Text;
 using UnityEngine;
 
-public class niceToKnowMono_HashToStorePassword : MonoBehaviour
+public class NiceToKnowMono_HashToStorePassword : MonoBehaviour
 {
     public string m_passwordGivenByUserAtStart = "J'aime les frites";
     public string m_passwordHashed;
