@@ -1,2 +1,8 @@
 # Hello Sharp For Unity 3D
-Here we are going to check all the basic need to work in Unity3D with C#
+
+Vous êtes dans d'une formation courte.
+Vous avez votre vie devant vous pour apprendre la programmation, mais là vous avez besoin de commencer par quelque par.
+Que pouvez vous étudiez ?
+
+Par où commencer ?
+
