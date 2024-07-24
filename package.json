@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.hellosharpforunity",                              
+  "displayName": "Hello C# for Unity3D",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package contains example in C# of what you need to learn as a beginner to start with Unity. ",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/HelloSharpForUnity3D.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
