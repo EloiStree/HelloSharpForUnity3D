@@ -6,3 +6,8 @@ Que pouvez vous étudiez ?
 
 Par où commencer ?
 
+
+- https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,Start%20learning%20C%23%20now%20»
+- 
+
+
