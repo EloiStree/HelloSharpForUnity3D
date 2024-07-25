@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4591034019337398322
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3671930836332145347}
+  - component: {fileID: 1861569923197170571}
+  m_Layer: 0
+  m_Name: MustKnown String To Char Array
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3671930836332145347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4591034019337398322}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1861569923197170571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4591034019337398322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c0a41f5873b6a44b32adecec7640e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_charAsString: D
+  m_char: 68
+  m_charAsByte: 68
+  m_charAsBits: 01000100
+  m_squirrelOfHell: "\U0001F43F\uFE0F"
+  m_squirrelOfHellLength: 3
+  m_squirrelOfHellCharArray: 3dd83fdc0ffe
+  m_squirrelOfHellCharArrayLength: 3
+  m_stringIn: "Hello World \U0001F43F\uFE0F \U0001F528 \U0001F9F0 "
+  m_charArrayIn: 480065006c006c006f00200057006f0072006c00640020003dd83fdc0ffe20003dd828dd20003ed8f0dd2000
+  m_charArrayAsBytes: 48656c6c6f20576f726c6420f09f90bfefb88f20f09f94a820f09fa7b020
+  m_charOut: 480065006c006c006f00200057006f0072006c00640020003dd83fdc0ffe20003dd828dd20003ed8f0dd2000
+  m_stringOut: "Hello World \U0001F43F\uFE0F \U0001F528 \U0001F9F0 "

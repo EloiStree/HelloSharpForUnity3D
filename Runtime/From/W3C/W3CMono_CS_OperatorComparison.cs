@@ -4,15 +4,14 @@ using UnityEngine;
 
 public class W3CMono_CS_OperatorComparison : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+    public void ToDoLater() { 
+    
+        //==	Equal to	x == y	
+        //!=	Not equal	x != y	
+        //>	Greater than	x > y	
+        //<	Less than	x < y	
+        //>=	Greater than or equal to	x >= y	
+        //<=	Less than or equal to	x <= y
     }
 }
