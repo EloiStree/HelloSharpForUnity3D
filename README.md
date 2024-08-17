@@ -1,3 +1,5 @@
+__[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
+
 # Hello Sharp For Unity 3D
 
 Vous êtes dans d'une formation courte.
