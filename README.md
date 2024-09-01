@@ -1,20 +1,49 @@
+Voici une version corrigée et reformulée :
+
+---
+
 __[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
 
-# Hello Sharp For Unity 3D
+🤖 Cette icône indique que le contenu suivant est généré par l'IA.  
+🧙‍♂️ Cette icône indique que je trouve le sujet magique :)  
+🐿️ Cette icône reflète mon avis personnel.  
+🌱 Le contenu suivant est gratuit.  
+💲 Le contenu suivant est sous licence payante.
 
-Vous êtes dans d'une formation courte.
-Vous avez votre vie devant vous pour apprendre la programmation, mais là vous avez besoin de commencer par quelque par.
-Que pouvez vous étudiez ?
+# Hello Unity Keyword
 
-Par où commencer ?
+Bonjour à tous,
+
+Je m'appelle Eloi Strée et je suis développeur de jeux vidéo en Belgique.  
+Je propose régulièrement des formations de 1 à 4 semaines sur demande.
+
+Ce dépôt Git constitue la base de mes cours.
+
+Vous y trouverez des mots-clés liés à C# pour Unity3D qu'il est important de connaître lorsque l'on débute.  
+
+Le cours s'articule autour des *issues* de Unity, qui sont organisées en modules.
+
+- `Keyword:` [->](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues?q=keyword) Désigne un mot-clé qu'il est essentiel de connaître dans le contexte du cours.
+- `Topic:` [->](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues?q=topic) Réfère à un sujet intéressant à maîtriser au cours de votre carrière.
+- `Workshop:` [->](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues?q=workshop) Indique un module de cours d'une semaine que je vais animer ou que j'ai déjà animé.
+- `Workshop-Day:` [->](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues?q=workshop-day) Correspond à un atelier d'une journée, qui fait partie des *workshops*.
+- `Software:` [->](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues?q=software) Représente les logiciels utilisés dans le cours.
+
+Si vous souhaitez apprendre Unity3D, je vous invite à consulter :  
+[https://github.com/EloiStree/HelloUnityKeywordForJunior](https://github.com/EloiStree/HelloUnityKeywordForJunior/)  
+
+Trouvez mes autres cours en cherchant `Hello` dans mes répertoires:
+[Hello... ](https://github.com/EloiStree?tab=repositories&q=Hello&type=&language=&sort=)
 
 
-W3C:
-- https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,Start%20learning%20C%23%20now%20»
 
 
-Code Monkey: 
-- Débutant 3H40: https://unitycodemonkey.com/video.php?v=pReR6Z9rK-o
-- Intermédiaire 4h00: https://unitycodemonkey.com/video.php?v=I6kx-_KXNz4
-- Avancé à venir, 10 minutes: https://youtu.be/zFY8b1C1d3k?t=188 
-- Unity3D : https://unitycodemonkey.com/kitchenchaoscourse.php#createProject
+---------------
+
+Notez que vous pouvez apprendre le C# via le site de W3Schools :
+- [W3Schools - C#](https://www.w3schools.com/cs/index.php#:~:text=C%23%20(C-Sharp)%20is,Start%20learning%20C%23%20now%20»)
+
+Ou grâce aux trois vidéos incroyables de Code Monkey sur le sujet :
+- Débutant (3h40) : [Voir la vidéo](https://unitycodemonkey.com/video.php?v=pReR6Z9rK-o)
+- Intermédiaire (4h00) : [Voir la vidéo](https://unitycodemonkey.com/video.php?v=I6kx-_KXNz4)
+- Unity3D : [Cours Unity3D](https://unitycodemonkey.com/kitchenchaoscourse.php#createProject)
