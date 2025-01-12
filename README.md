@@ -1,6 +1,5 @@
-Voici une version corrigée et reformulée :
 
----
+![image](https://github.com/user-attachments/assets/573ed7ac-79d9-493c-a19a-10408bde5963)
 
 __[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
 
@@ -50,5 +49,4 @@ Ou grâce aux trois vidéos incroyables de Code Monkey sur le sujet :
 
 ----------------------------
 
-![image](https://github.com/user-attachments/assets/573ed7ac-79d9-493c-a19a-10408bde5963)
 
