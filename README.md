@@ -1,7 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/573ed7ac-79d9-493c-a19a-10408bde5963)
 
-__[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
 
 🤖 Cette icône indique que le contenu suivant est généré par l'IA.  
 🧙‍♂️ Cette icône indique que je trouve le sujet magique :)  
