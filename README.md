@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/573ed7ac-79d9-493c-a19a-10408bde5963)
 
 
-Just a reminder that computer is just math with electricity compress in a rock:
+Just a reminder that computer is just math with electricity compress in a rock:  
 [![image](https://github.com/user-attachments/assets/af8865ea-19bd-4b6f-88db-be0dae9c8169)](https://www.youtube.com/shorts/F83UXlhBYUM?t=49&feature=share)  
 https://www.youtube.com/shorts/F83UXlhBYUM?t=49&feature=share  
 
