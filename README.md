@@ -53,3 +53,7 @@ Ou grâce aux trois vidéos incroyables de Code Monkey sur le sujet :
 ----------------------------
 
 
+When you teach a new topic and the student need to learn the hardway at some point to undestand it.  
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/607b1f28-6307-49c7-886f-daf802fa59af" />  
+
+
