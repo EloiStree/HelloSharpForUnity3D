@@ -55,8 +55,10 @@ Ou grâce aux trois vidéos incroyables de Code Monkey sur le sujet :
 
 ----------------------------
 
-
-When you teach a new topic and the student need to learn the hardway at some point to undestand it.  
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/607b1f28-6307-49c7-886f-daf802fa59af" />  
+To learn, you need to fail.     
+And before you fail, you often won’t truly listen or understand.   
+So don’t be surprised if, sometimes, I don’t tell you directly how you should have done something.   
+I need you to fail first to learn what not to do.   
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/607b1f28-6307-49c7-886f-daf802fa59af" />     
 
 
